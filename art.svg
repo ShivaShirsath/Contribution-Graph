@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="95" fill-opacity="0.5">
     <g transform="translate(-5, 5)">
         <g transform="translate(0, 0)">
-            <rect width="10" height="10" x="13" y="0" ></rect>
+            <rect width="10" height="10" x="13" y="0" fill="rgba(0,0,0,0)"></rect>
             <rect width="10" height="10" x="13" y="12" fill="#ebedf0"></rect>
             <rect width="10" height="10" x="13" y="24" fill="#ebedf0"></rect>
             <rect width="10" height="10" x="13" y="36" fill="#ebedf0"></rect>
