@@ -1,2 +1,2 @@
 ![](art.svg)
-# [ぷ](https://ShivaShirsath.github.com/Contribution-Graph)
+# [ぷ](https://ShivaShirsath.github.io/Contribution-Graph)
